@@ -1,0 +1,18 @@
+.forms{
+    background-color: black;
+    color: white;
+    width: 20%;
+    height: 40%;
+    line-height: 2;
+    padding: 20px;
+}
+.submit{
+    background-color: #dc3214;
+    color: white;
+    border: black;
+}
+.button{
+    background-color: #dc3214;
+    color: white;
+    border: black;
+}
